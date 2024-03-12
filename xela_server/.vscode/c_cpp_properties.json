@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/irmak/Workspace/xela_ros_ws/devel/include/**",
+        "/home/irmak/Workspace/DIME-Controllers/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/irmak/Workspace/DIME-Controllers/src/Allegro-Hand-Controller-DIME/src/allegro_hand_driver/include/**",
+        "/home/irmak/Workspace/DIME-Controllers/src/Kinova-Arm-Controller-DIME/kinova_driver/include/**",
+        "/home/irmak/Workspace/DIME-Controllers/src/Allegro-Hand-Controller-DIME/src/ll4ma_kdl/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
